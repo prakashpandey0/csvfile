@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  enroll_id: 1
+  name: MyString
+  mobile_no: 1
+  password: MyString
+
+two:
+  enroll_id: 1
+  name: MyString
+  mobile_no: 1
+  password: MyString
